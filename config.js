@@ -27,5 +27,5 @@ module.exports = {
     WARN_COUNT: 3,
     APIs: global.APIs,
     APIKeys: global.APIKeys, 
-    phoneNumber: "" // Don't Add If You Are Using Panel To Deploy
+    phoneNumber: "0242050512" // Don't Add If You Are Using Panel To Deploy
 };
