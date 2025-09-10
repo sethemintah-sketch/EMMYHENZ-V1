@@ -1,8 +1,8 @@
-## ❤️‍🔥𝐄𝐌𝐌𝐘𝐇𝐄𝐍𝐙 𝐕1 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓❤️‍🔥
+## ❤️‍🔥𝐄𝐌𝐌𝐘𝐇𝐄𝐍𝐙 𝐕1❤️‍🔥
 
 <p align="center">
   <a href="https://github.com/emmyhenz">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00a2ff&center=true&vCenter=true&width=600&lines=EMMYHENZ+V1+WHATSAPP+BOT;FREE-FAST+WHATSAPP+BOT;CREATED+BY+EMMYHENZ;MULTI+DEVICE+WHATSAPP+BOT!">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00a2ff&center=true&vCenter=true&width=600&lines=EMMYHENZ+V1+WHATSAPP+BOT;FREE-FAST+WHATSAPP+BOT;CREATED+BY+EMMYHENZ;MULTI+DEVICE+BOT!">
   </a>
 </p>
 
